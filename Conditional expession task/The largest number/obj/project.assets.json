@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\GITHUB\\Practice tasks\\Conditional expession task\\Even or odd.csproj",
-      "projectName": "Even or odd",
-      "projectPath": "D:\\Programming\\GITHUB\\Practice tasks\\Conditional expession task\\Even or odd.csproj",
+      "projectUniqueName": "D:\\Programming\\GITHUB\\Practice tasks\\Conditional expession task\\The largest number\\The largest number.csproj",
+      "projectName": "The largest number",
+      "projectPath": "D:\\Programming\\GITHUB\\Practice tasks\\Conditional expession task\\The largest number\\The largest number.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\GITHUB\\Practice tasks\\Conditional expession task\\obj\\",
+      "outputPath": "D:\\Programming\\GITHUB\\Practice tasks\\Conditional expession task\\The largest number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

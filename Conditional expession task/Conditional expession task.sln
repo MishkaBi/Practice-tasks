@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional expession task", "Conditional expession task.csproj", "{C9EEA4CD-7D77-4999-996D-0A2B74C3862E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even or odd", "Even or odd.csproj", "{C9EEA4CD-7D77-4999-996D-0A2B74C3862E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap year or not", "Leap year or not\Leap year or not.csproj", "{785CB222-C8C3-4994-93D9-168DBA8E4AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The largest number", "The largest number\The largest number.csproj", "{FA168508-196C-445D-B69D-22237F3D36F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C9EEA4CD-7D77-4999-996D-0A2B74C3862E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9EEA4CD-7D77-4999-996D-0A2B74C3862E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9EEA4CD-7D77-4999-996D-0A2B74C3862E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785CB222-C8C3-4994-93D9-168DBA8E4AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785CB222-C8C3-4994-93D9-168DBA8E4AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785CB222-C8C3-4994-93D9-168DBA8E4AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785CB222-C8C3-4994-93D9-168DBA8E4AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA168508-196C-445D-B69D-22237F3D36F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA168508-196C-445D-B69D-22237F3D36F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA168508-196C-445D-B69D-22237F3D36F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA168508-196C-445D-B69D-22237F3D36F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

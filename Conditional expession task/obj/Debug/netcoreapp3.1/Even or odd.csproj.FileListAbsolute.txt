@@ -1,0 +1,4 @@
+D:\Programming\GITHUB\Practice tasks\Conditional expession task\obj\Debug\netcoreapp3.1\Even or odd.AssemblyInfoInputs.cache
+D:\Programming\GITHUB\Practice tasks\Conditional expession task\obj\Debug\netcoreapp3.1\Even or odd.AssemblyInfo.cs
+D:\Programming\GITHUB\Practice tasks\Conditional expession task\obj\Debug\netcoreapp3.1\Even or odd.csproj.CoreCompileInputs.cache
+D:\Programming\GITHUB\Practice tasks\Conditional expession task\obj\Debug\netcoreapp3.1\Even or odd.csprojAssemblyReference.cache
